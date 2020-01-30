@@ -54,3 +54,12 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
+
+## Day 5: Dicee - Building Apps with State
+
+* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
+* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
+* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
+* [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
+* [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
