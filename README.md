@@ -11,6 +11,11 @@
 * [Udemy Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 * [YouTube Channel](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
 * [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+* [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
+* [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+* [Fireship IO](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+* [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
+* [MTechViral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA)
 
 ## Install Flutter on Android
 * [Install flutter sdk on Windows](https://www.youtube.com/watch?v=Z2ugnpCQuyw&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm&index=4)
